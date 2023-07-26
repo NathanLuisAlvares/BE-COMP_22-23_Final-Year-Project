@@ -10,6 +10,4 @@ Implementing the facial recognition system yields multiple benefits. It signific
 
 To ensure data integrity and security, the system incorporates robust measures. Attendance records are stored securely, preventing unauthorized access or tampering. Additionally, privacy-preserving techniques are implemented to address concerns regarding the storage and processing of students' data.
 
-### GDrive link: https://drive.google.com/drive/folders/1OkYm02d68RWapgYc_l-ZZVok5kDGJ1V2?usp=drive_link
-
-### Follow the Instruction Manual to clone the project on your local system. If any issues, raise them up in the "Issues" section of GitHub. I will look into it in my free time.
+### If one wants the code, email me with a specific reason: nathanlalvares03@gmail.com
